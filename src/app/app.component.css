@@ -1,4 +1,19 @@
 .box {
     display: flex;
     padding: 10px;
+    border-style: dotted;
+    border-color: blue;
+    justify-content: center;
  }
+
+.crew {
+    padding: 8px;
+}
+
+.equipment {
+    padding: 8px;
+}
+
+.experiments {
+    padding: 8px;
+}
